@@ -1,0 +1,43 @@
+"0","library(GenomicDataCommons)"
+"2","Loading required package: magrittr
+"
+"2","Registered S3 method overwritten by 'dplyr':
+  method           from
+  print.rowwise_df     
+"
+"2","
+Attaching package: ‘GenomicDataCommons’
+
+"
+"2","The following object is masked from ‘package:stats’:
+
+    filter
+
+"
+"0","library(TCGAbiolinks)"
+"2","Registered S3 methods overwritten by 'ggplot2':
+  method         from 
+  [.quosures     rlang
+  c.quosures     rlang
+  print.quosures rlang
+"
+"2","Registered S3 method overwritten by 'R.oo':
+  method        from       
+  throw.default R.methodsS3
+"
+"2","Registered S3 method overwritten by 'data.table':
+  method           from
+  print.data.table     
+"
+"2"," =============================================================
+ ______  ___  ____   ___                                        
+   ||   |    |      |   | |    o  __  |   o  _         __         
+   ||   |    | ___  |___| |__  | |  | |   | | | | |_/ |__         
+   ||   |___ |____| |   | |__| | |__| |__ | | |_| | \  __|       
+ ------------------------------------------------------------
+ Query, download & analyze - GDC                  
+ Version:2.12.1
+ ==============================================================
+
+"
+"0","library(maftools)"

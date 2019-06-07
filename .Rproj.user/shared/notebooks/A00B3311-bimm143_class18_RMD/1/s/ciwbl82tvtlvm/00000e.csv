@@ -1,0 +1,17 @@
+"0","BiocManager::install(c(""GenomicDataCommons"", ""TCGAbiolinks"", ""maftools""))"
+"2","Bioconductor version 3.9 (BiocManager 1.30.4), R 3.6.0 (2019-04-26)
+"
+"2","Installing package(s) 'GenomicDataCommons', 'TCGAbiolinks', 'maftools'
+"
+"2","also installing the dependencies ‘formatR’, ‘bit’, ‘lambda.r’, ‘futile.options’, ‘zlibbioc’, ‘ggsci’, ‘cowplot’, ‘ggsignif’, ‘polynom’, ‘exactRankTests’, ‘mvtnorm’, ‘generics’, ‘KMsurv’, ‘zoo’, ‘km.ci’, ‘xtable’, ‘GenomicAlignments’, ‘hwriter’, ‘latticeExtra’, ‘geneplotter’, ‘bitops’, ‘Rhtslib’, ‘prettyunits’, ‘rjson’, ‘bit64’, ‘blob’, ‘memoise’, ‘futile.logger’, ‘snow’, ‘bibtex’, ‘hms’, ‘clipr’, ‘XVector’, ‘Biobase’, ‘DelayedArray’, ‘ggpubr’, ‘maxstat’, ‘broom’, ‘survMisc’, ‘cmprsk’, ‘ShortRead’, ‘DESeq’, ‘aroma.light’, ‘Rsamtools’, ‘Biostrings’, ‘AnnotationDbi’, ‘locfit’, ‘RCurl’, ‘progress’, ‘GetoptLong’, ‘clue’, ‘GlobalOptions’, ‘png’, ‘annotate’, ‘ALL’, ‘foreach’, ‘iterators’, ‘GenomeInfoDbData’, ‘DBI’, ‘RSQLite’, ‘rtracklayer’, ‘BiocParallel’, ‘matrixStats’, ‘shape’, ‘pkgmaker’, ‘registry’, ‘rngtools’, ‘gridBase’, ‘xml2’, ‘readr’, ‘GenomicRanges’, ‘IRanges’, ‘rappdirs’, ‘SummarizedExperiment’, ‘S4Vectors’, ‘downloader’, ‘survminer’, ‘data.table’, ‘EDASeq’, ‘edgeR’, ‘biomaRt’, ‘ggthemes’, ‘rvest’, ‘selectr’, ‘ComplexHeatmap’, ‘genefilter’, ‘ConsensusClusterPlus’, ‘doParallel’, ‘GenomeInfoDb’, ‘GenomicFeatures’, ‘tidyr’, ‘sva’, ‘limma’, ‘matlab’, ‘circlize’, ‘cometExactTest’, ‘NMF’, ‘wordcloud’
+
+"
+"2","cannot open URL 'https://bioconductor.org/packages/3.9/data/experiment/bin/windows/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","cannot open URL 'https://bioconductor.org/packages/3.9/workflows/bin/windows/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'"
+"1","
+"
+"1",""
+"1","  There is a binary version available but the source version is later"
+"1",""
+"1",":
+"

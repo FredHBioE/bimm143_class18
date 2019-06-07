@@ -1,0 +1,1 @@
+"0","vars = read.maf(maf = maf.file, verbose = FALSE)"

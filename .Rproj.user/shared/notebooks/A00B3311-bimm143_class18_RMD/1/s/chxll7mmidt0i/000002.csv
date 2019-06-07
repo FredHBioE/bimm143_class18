@@ -1,0 +1,46 @@
+"0","query <- GDCquery(project=""TCGA-PAAD"","
+"0","                  data.category=""Transcriptome Profiling"","
+"0","                  data.type=""Gene Expression Quantification"")"
+"2","--------------------------------------
+"
+"2","o GDCquery: Searching in GDC database
+"
+"2","--------------------------------------
+"
+"2","Genome of reference: hg38
+"
+"2","--------------------------------------------
+"
+"2","oo Accessing GDC. This might take a while...
+"
+"2","--------------------------------------------
+"
+"2","ooo Project: TCGA-PAAD
+"
+"2","--------------------
+"
+"2","oo Filtering results
+"
+"2","--------------------
+"
+"2","ooo By data.type
+"
+"2","----------------
+"
+"2","oo Checking data
+"
+"2","----------------
+"
+"2","ooo Check if there are duplicated cases
+"
+"2","Warning: There are more than one file for the same case. Please verify query results. You can use the command View(getResults(query)) in rstudio
+"
+"2","ooo Check if there results for the query
+"
+"2","-------------------
+"
+"2","o Preparing output
+"
+"2","-------------------
+"
+"0","ans <- getResults(query)"

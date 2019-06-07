@@ -1,0 +1,3 @@
+"0","## Output a FASTA file for further analysis"
+"0","write.fasta(seqs=store.seqs, ids=mutant.names, file=""subsequences.fa"")"
+"0",""

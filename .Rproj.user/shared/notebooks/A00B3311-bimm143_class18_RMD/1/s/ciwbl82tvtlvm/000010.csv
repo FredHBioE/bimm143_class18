@@ -1,0 +1,1124 @@
+"1","
+"
+"1","  Binaries will be installed
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/formatR_1.6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 151908 bytes (148 KB)
+"
+"2","downloaded 148 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/bit_1.1-14.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 248593 bytes (242 KB)
+"
+"2","downloaded 242 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/lambda.r_1.2.3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 112343 bytes (109 KB)
+"
+"2","downloaded 109 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/futile.options_1.0.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 21138 bytes (20 KB)
+"
+"2","downloaded 20 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/zlibbioc_1.30.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 374970 bytes (366 KB)
+"
+"2","downloaded 366 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/ggsci_2.9.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2978877 bytes (2.8 MB)
+"
+"2","downloaded 2.8 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/cowplot_0.9.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2213849 bytes (2.1 MB)
+"
+"2","downloaded 2.1 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/ggsignif_0.5.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 79384 bytes (77 KB)
+"
+"2","downloaded 77 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/polynom_1.4-0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 313321 bytes (305 KB)
+"
+"2","downloaded 305 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/exactRankTests_0.8-30.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 168269 bytes (164 KB)
+"
+"2","downloaded 164 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/mvtnorm_1.0-10.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 523304 bytes (511 KB)
+"
+"2","downloaded 511 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/generics_0.0.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 64851 bytes (63 KB)
+"
+"2","downloaded 63 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/KMsurv_0.1-5.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 129702 bytes (126 KB)
+"
+"2","downloaded 126 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/zoo_1.8-6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1102556 bytes (1.1 MB)
+"
+"2","downloaded 1.1 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/km.ci_0.5-2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 75903 bytes (74 KB)
+"
+"2","downloaded 74 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/xtable_1.8-4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 706800 bytes (690 KB)
+"
+"2","downloaded 690 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/GenomicAlignments_1.20.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2440651 bytes (2.3 MB)
+"
+"2","downloaded 2.3 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/hwriter_1.3.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 163867 bytes (160 KB)
+"
+"2","downloaded 160 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/latticeExtra_0.6-28.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2195825 bytes (2.1 MB)
+"
+"2","downloaded 2.1 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/geneplotter_1.62.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1589541 bytes (1.5 MB)
+"
+"2","downloaded 1.5 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/bitops_1.0-6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 38468 bytes (37 KB)
+"
+"2","downloaded 37 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/Rhtslib_1.16.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3972209 bytes (3.8 MB)
+"
+"2","downloaded 3.8 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/prettyunits_1.0.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 33484 bytes (32 KB)
+"
+"2","downloaded 32 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/rjson_0.2.20.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 578277 bytes (564 KB)
+"
+"2","downloaded 564 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/bit64_0.9-7.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 551264 bytes (538 KB)
+"
+"2","downloaded 538 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/blob_1.1.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 24762 bytes (24 KB)
+"
+"2","downloaded 24 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/memoise_1.1.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 36829 bytes (35 KB)
+"
+"2","downloaded 35 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/futile.logger_1.4.3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 98546 bytes (96 KB)
+"
+"2","downloaded 96 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/snow_0.4-3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 111123 bytes (108 KB)
+"
+"2","downloaded 108 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/bibtex_0.4.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 130717 bytes (127 KB)
+"
+"2","downloaded 127 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/hms_0.4.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 57468 bytes (56 KB)
+"
+"2","downloaded 56 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/clipr_0.6.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 50742 bytes (49 KB)
+"
+"2","downloaded 49 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/XVector_0.24.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 714038 bytes (697 KB)
+"
+"2","downloaded 697 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/Biobase_2.44.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2421976 bytes (2.3 MB)
+"
+"2","downloaded 2.3 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/DelayedArray_0.10.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2239865 bytes (2.1 MB)
+"
+"2","downloaded 2.1 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/ggpubr_0.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1755865 bytes (1.7 MB)
+"
+"2","downloaded 1.7 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/maxstat_0.7-25.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 193414 bytes (188 KB)
+"
+"2","downloaded 188 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/broom_0.5.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2010988 bytes (1.9 MB)
+"
+"2","downloaded 1.9 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/survMisc_0.5.5.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 337521 bytes (329 KB)
+"
+"2","downloaded 329 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/cmprsk_2.2-8.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 113443 bytes (110 KB)
+"
+"2","downloaded 110 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/ShortRead_1.42.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 6052944 bytes (5.8 MB)
+"
+"2","downloaded 5.8 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/DESeq_1.36.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1528270 bytes (1.5 MB)
+"
+"2","downloaded 1.5 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/aroma.light_3.14.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 700129 bytes (683 KB)
+"
+"2","downloaded 683 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/Rsamtools_2.0.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 4948760 bytes (4.7 MB)
+"
+"2","downloaded 4.7 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/Biostrings_2.52.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 14372143 bytes (13.7 MB)
+"
+"2","downloaded 13.7 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/AnnotationDbi_1.46.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 5224169 bytes (5.0 MB)
+"
+"2","downloaded 5.0 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/locfit_1.5-9.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 687099 bytes (670 KB)
+"
+"2","downloaded 670 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/RCurl_1.95-4.12.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2973981 bytes (2.8 MB)
+"
+"2","downloaded 2.8 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/progress_1.2.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 85155 bytes (83 KB)
+"
+"2","downloaded 83 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/GetoptLong_0.1.7.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 319529 bytes (312 KB)
+"
+"2","downloaded 312 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/clue_0.3-57.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1034211 bytes (1009 KB)
+"
+"2","downloaded 1009 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/GlobalOptions_0.1.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 120248 bytes (117 KB)
+"
+"2","downloaded 117 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/png_0.1-7.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 292813 bytes (285 KB)
+"
+"2","downloaded 285 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/annotate_1.62.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2232874 bytes (2.1 MB)
+"
+"2","downloaded 2.1 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/foreach_1.4.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 420093 bytes (410 KB)
+"
+"2","downloaded 410 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/iterators_1.0.10.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 341952 bytes (333 KB)
+"
+"2","downloaded 333 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/DBI_1.0.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 889093 bytes (868 KB)
+"
+"2","downloaded 868 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/RSQLite_2.1.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2157545 bytes (2.1 MB)
+"
+"2","downloaded 2.1 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/rtracklayer_1.44.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3057456 bytes (2.9 MB)
+"
+"2","downloaded 2.9 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/BiocParallel_1.17.18.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1633203 bytes (1.6 MB)
+"
+"2","downloaded 1.6 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/matrixStats_0.54.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1636575 bytes (1.6 MB)
+"
+"2","downloaded 1.6 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/shape_1.4.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 793429 bytes (774 KB)
+"
+"2","downloaded 774 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/pkgmaker_0.27.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 666555 bytes (650 KB)
+"
+"2","downloaded 650 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/registry_0.5-1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 197132 bytes (192 KB)
+"
+"2","downloaded 192 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/rngtools_1.3.1.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 70068 bytes (68 KB)
+"
+"2","downloaded 68 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/gridBase_0.4-7.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 166048 bytes (162 KB)
+"
+"2","downloaded 162 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/xml2_1.2.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3616882 bytes (3.4 MB)
+"
+"2","downloaded 3.4 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/readr_1.3.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1589004 bytes (1.5 MB)
+"
+"2","downloaded 1.5 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/GenomicRanges_1.36.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2135144 bytes (2.0 MB)
+"
+"2","downloaded 2.0 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/IRanges_2.18.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2371691 bytes (2.3 MB)
+"
+"2","downloaded 2.3 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/rappdirs_0.3.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 87254 bytes (85 KB)
+"
+"2","downloaded 85 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/SummarizedExperiment_1.14.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2806553 bytes (2.7 MB)
+"
+"2","downloaded 2.7 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/S4Vectors_0.22.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2030028 bytes (1.9 MB)
+"
+"2","downloaded 1.9 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/downloader_0.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 24932 bytes (24 KB)
+"
+"2","downloaded 24 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/survminer_0.4.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2973683 bytes (2.8 MB)
+"
+"2","downloaded 2.8 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/data.table_1.12.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1943668 bytes (1.9 MB)
+"
+"2","downloaded 1.9 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/EDASeq_2.18.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1170159 bytes (1.1 MB)
+"
+"2","downloaded 1.1 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/edgeR_3.26.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2971827 bytes (2.8 MB)
+"
+"2","downloaded 2.8 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/biomaRt_2.40.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 621679 bytes (607 KB)
+"
+"2","downloaded 607 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/ggthemes_4.2.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 434792 bytes (424 KB)
+"
+"2","downloaded 424 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/rvest_0.3.4.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 915032 bytes (893 KB)
+"
+"2","downloaded 893 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/selectr_0.4-1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 490279 bytes (478 KB)
+"
+"2","downloaded 478 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/ComplexHeatmap_2.0.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2700813 bytes (2.6 MB)
+"
+"2","downloaded 2.6 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/genefilter_1.66.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1537031 bytes (1.5 MB)
+"
+"2","downloaded 1.5 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/ConsensusClusterPlus_1.48.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 265421 bytes (259 KB)
+"
+"2","downloaded 259 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/doParallel_1.0.14.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 199958 bytes (195 KB)
+"
+"2","downloaded 195 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/GenomeInfoDb_1.20.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3835294 bytes (3.7 MB)
+"
+"2","downloaded 3.7 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/GenomicFeatures_1.36.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2237720 bytes (2.1 MB)
+"
+"2","downloaded 2.1 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/tidyr_0.8.3.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 955556 bytes (933 KB)
+"
+"2","downloaded 933 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/sva_3.32.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 578061 bytes (564 KB)
+"
+"2","downloaded 564 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/limma_3.40.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3059804 bytes (2.9 MB)
+"
+"2","downloaded 2.9 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/matlab_1.0.2.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 174455 bytes (170 KB)
+"
+"2","downloaded 170 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/circlize_0.4.6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 3043208 bytes (2.9 MB)
+"
+"2","downloaded 2.9 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/cometExactTest_0.1.5.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 865888 bytes (845 KB)
+"
+"2","downloaded 845 KB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/NMF_0.21.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 2842564 bytes (2.7 MB)
+"
+"2","downloaded 2.7 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/wordcloud_2.6.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 596923 bytes (582 KB)
+"
+"2","downloaded 582 KB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/GenomicDataCommons_1.8.0.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1066480 bytes (1.0 MB)
+"
+"2","downloaded 1.0 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/TCGAbiolinks_2.12.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 57531426 bytes (54.9 MB)
+"
+"2","downloaded 54.9 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/maftools_2.0.05.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 8896204 bytes (8.5 MB)
+"
+"2","downloaded 8.5 MB
+
+"
+"1","package ‘formatR’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘bit’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘lambda.r’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘futile.options’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘zlibbioc’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ggsci’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘cowplot’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ggsignif’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘polynom’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘exactRankTests’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘mvtnorm’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘generics’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘KMsurv’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘zoo’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘km.ci’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘xtable’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘GenomicAlignments’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘hwriter’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘latticeExtra’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘geneplotter’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘bitops’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘Rhtslib’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘prettyunits’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘rjson’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘bit64’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘blob’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘memoise’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘futile.logger’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘snow’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘bibtex’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘hms’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘clipr’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘XVector’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘Biobase’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘DelayedArray’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ggpubr’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘maxstat’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘broom’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘survMisc’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘cmprsk’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ShortRead’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘DESeq’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘aroma.light’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘Rsamtools’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘Biostrings’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘AnnotationDbi’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘locfit’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘RCurl’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘progress’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘GetoptLong’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘clue’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘GlobalOptions’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘png’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘annotate’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘foreach’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘iterators’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘DBI’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘RSQLite’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘rtracklayer’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘BiocParallel’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘matrixStats’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘shape’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘pkgmaker’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘registry’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘rngtools’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘gridBase’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘xml2’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘readr’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘GenomicRanges’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘IRanges’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘rappdirs’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘SummarizedExperiment’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘S4Vectors’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘downloader’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘survminer’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘data.table’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘EDASeq’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘edgeR’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘biomaRt’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ggthemes’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘rvest’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘selectr’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ComplexHeatmap’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘genefilter’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘ConsensusClusterPlus’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘doParallel’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘GenomeInfoDb’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘GenomicFeatures’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘tidyr’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘sva’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘limma’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘matlab’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘circlize’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘cometExactTest’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘NMF’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘wordcloud’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘GenomicDataCommons’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘TCGAbiolinks’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘maftools’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Fred\AppData\Local\Temp\RtmpItIQgz\downloaded_packages"
+"1",""
+"1","
+"
+"2","installing the source packages �ALL�, �GenomeInfoDbData�
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/data/experiment/src/contrib/ALL_1.26.0.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 11402162 bytes (10.9 MB)
+"
+"2","downloaded 10.9 MB
+
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/data/annotation/src/contrib/GenomeInfoDbData_1.2.1.tar.gz'
+"
+"2","Content type 'application/x-gzip'"
+"2"," length 9792100 bytes (9.3 MB)
+"
+"2","downloaded 9.3 MB
+
+"
+"1","* installing *source* package 'ALL' ...
+"
+"1","** using staged installation
+"
+"1","** R
+"
+"1","** data
+"
+"1","** inst
+"
+"1","** byte-compile and prepare package for lazy loading
+"
+"1","** help
+"
+"1","*** installing help indices
+"
+"1","  converting help for package 'ALL'
+"
+"1","    finding HTML links ... done
+"
+"1","    ALL                                     html  
+"
+"1","    tojulian                                html  
+"
+"1","** building package indices
+"
+"1","** installing vignettes
+"
+"1","** testing if installed package can be loaded from temporary location
+"
+"1","*** arch - i386
+"
+"1","*** arch - x64
+"
+"1","** testing if installed package can be loaded from final location
+"
+"1","*** arch - i386
+"
+"1","*** arch - x64
+"
+"1","** testing if installed package keeps a record of temporary installation path
+"
+"1","* DONE (ALL)
+"
+"1","* installing *source* package 'GenomeInfoDbData' ...
+"
+"1","** using staged installation
+"
+"1","** data
+"
+"1","** inst
+"
+"1","** help
+"
+"1","*** installing help indices
+"
+"1","  converting help for package 'GenomeInfoDbData'
+"
+"1","    finding HTML links ... done
+"
+"1","    GenomeInfoDbData-package                html  
+"
+"1","** building package indices
+"
+"1","** testing if installed package can be loaded from temporary location
+"
+"1","*** arch - i386
+"
+"1","*** arch - x64
+"
+"1","** testing if installed package can be loaded from final location
+"
+"1","*** arch - i386
+"
+"1","*** arch - x64
+"
+"1","** testing if installed package keeps a record of temporary installation path
+"
+"1","* DONE (GenomeInfoDbData)
+"
+"2","
+"
+"2",""
+"2","The downloaded source packages are in
+	‘C:\Users\Fred\AppData\Local\Temp\RtmpItIQgz\downloaded_packages’"
+"2",""
+"2","
+"
+"2","installation path not writeable, unable to update packages: cluster, nlme
+"
+"2","Update old packages: 'BiocParallel', 'tibble'
+"
+"1","Update all/some/none? [a/s/n]: "
+"0","a"
+"2","cannot open URL 'https://bioconductor.org/packages/3.9/data/experiment/bin/windows/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'"
+"2","cannot open URL 'https://bioconductor.org/packages/3.9/workflows/bin/windows/contrib/3.6/PACKAGES.rds': HTTP status was '404 Not Found'"
+"1","
+"
+"1",""
+"1","  There are binary versions available but the source versions are later"
+"1",""
+"1",":
+"

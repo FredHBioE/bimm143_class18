@@ -1,0 +1,32 @@
+"1","
+"
+"1","  Binaries will be installed
+"
+"2","trying URL 'https://bioconductor.org/packages/3.9/bioc/bin/windows/contrib/3.6/BiocParallel_1.17.18.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 1633203 bytes (1.6 MB)
+"
+"2","downloaded 1.6 MB
+
+"
+"2","trying URL 'https://cran.rstudio.com/bin/windows/contrib/3.6/tibble_2.1.1.zip'
+"
+"2","Content type 'application/zip'"
+"2"," length 338274 bytes (330 KB)
+"
+"2","downloaded 330 KB
+
+"
+"1","package ‘BiocParallel’ successfully unpacked and MD5 sums checked
+"
+"1","package ‘tibble’ successfully unpacked and MD5 sums checked
+"
+"1","
+"
+"1",""
+"1","The downloaded binary packages are in
+	C:\Users\Fred\AppData\Local\Temp\RtmpItIQgz\downloaded_packages"
+"1",""
+"1","
+"

@@ -1,0 +1,3 @@
+"0","# Oncoplot for our top 10 most frequently mutated genes"
+"0","pdf(""oncoplot_panc.pdf"")"
+"0","oncoplot(maf = vars, top = 10, fontSize = 0.8)"

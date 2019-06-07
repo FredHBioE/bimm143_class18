@@ -1,0 +1,5 @@
+"0","lollipopPlot(vars, gene='TP53')"
+"2","Assuming protein change information are stored under column HGVSp_Short. Use argument AACol to override if necessary.
+"
+"2","8 transcripts available. Use arguments refSeqID or proteinID to manually specify tx name.
+"

@@ -1,0 +1,6 @@
+"0","cases_by_project <- cases() %>%"
+"0","  facet(""project.project_id"") %>%"
+"0","  aggregations()"
+"0","head(cases_by_project)"
+"1","$project.project_id
+"
